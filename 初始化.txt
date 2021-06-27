@@ -1,0 +1,7 @@
+go 代理：
+Windows在电脑 -> 系统 -> 高级系统设置 -> 用户环境中分别新建GO111MODULE和GOPROXY两个用户变量
+GO111MODULE=on
+GOPROXY=https://mirrors.aliyun.com/goproxy/
+
+go sql:
+go get -u github.com/go-sql-driver/mysql

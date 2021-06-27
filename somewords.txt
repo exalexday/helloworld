@@ -1,0 +1,3 @@
+I would like to add a string by ioutil
+I would like to add a string
+I would like to add a string by bufio
